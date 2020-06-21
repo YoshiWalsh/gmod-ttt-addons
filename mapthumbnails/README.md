@@ -1,0 +1,2 @@
+These thumbnails are designed for use with jw-ttt-map-voting. You should upload them to a publicly accessible
+directory on your web server and then adjust data/jw-ttt-map-voting/config.txt to point to that path.

@@ -1,0 +1,2 @@
+This weapon behaves like a discombobulator, pushing players away. But it also causes nearby players to drop their active
+weapon. Doesn't do any damage, but does cause confusion which might be exactly the opportunity the traitors need.
